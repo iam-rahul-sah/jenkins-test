@@ -1,1 +1,1 @@
-prit("Hello rahul how is that, v4")
+print("Hello rahul how is that, v4")
